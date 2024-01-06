@@ -1,6 +1,10 @@
+
 const Products = () => {
+
   return (
-    <h2>Products Page</h2>
+    <>
+      <h2>Products Page</h2>
+    </>
   )
 }
 
